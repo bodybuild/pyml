@@ -1,2 +1,0 @@
-# pyml
-python mathiche learning
